@@ -27,7 +27,7 @@ This project is a draggable chart sample built with Vue.js 3 and ECharts. It pro
 To get started with the Draggable Chart Editor, you can clone this repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/yourrepository.git
+git clone git@github.com:codesssss/DraggableChart.git
 ```
 
 Then, install the necessary dependencies:
