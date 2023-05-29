@@ -23,7 +23,7 @@
 要开始使用可拖拽图表样例，你可以克隆这个仓库到你的本地：
 
 ```
-git clone https://github.com/yourusername/yourrepository.git
+git clone git@github.com:codesssss/DraggableChart.git
 ```
 
 然后，安装必要的依赖：
