@@ -9,11 +9,17 @@ This project is a draggable chart sample built with Vue.js 3 and ECharts. It pro
 ## Features
 
 - **Drag Data Points**: Easily modify your data by dragging points on the chart.
+  
   <img src="./docs/f1.gif" width="400">
+  
 - **Double-click to Edit Data**: Double-click on any data point to open a dialog box for precise data input.
+  
   <img src="./docs/f2.gif" width="400">
+
 - **Click to Add Data Points**: Add new data points to your chart with a single click.
+  
   <img src="./docs/f3.gif" width="400">
+
 - **Random Data Generation**: Generate random data points following specific trends and ranges.
 
 ## Getting Started
